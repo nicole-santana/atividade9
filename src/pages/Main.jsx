@@ -6,6 +6,13 @@ export default function Main() {
         <p>São Paulo, Brasil</p>
 
         <p>"Front-end developer"</p>
+        <div class="links">
+          <a href="">GitHub</a>
+          <a href="">Frontend mentor</a>
+          <a href="">LinkedIn</a>
+          <a href="">Twitter</a>
+          <a href="">Instagram</a>
+        </div>
     </div>
   )
 }
