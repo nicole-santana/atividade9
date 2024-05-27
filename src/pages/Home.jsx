@@ -4,7 +4,18 @@ import Main from './Main'
 export default function Home() {
   return (
     <HomeContainer>
-      <Main></Main>
+      <img src="" alt="" />
+      <h1>Nicole De Sá</h1>
+      <p>São Paulo, Brasil</p>
+
+      <p id="job">"Front-end developer/student"</p>
+      <div class="links">
+        <a href="">GitHub</a>
+        <a href="">Frontend mentor</a>
+        <a href="">LinkedIn</a>
+        <a href="">Twitter</a>
+        <a href="">Instagram</a>
+      </div>
     </HomeContainer>
     
   )
